@@ -22,7 +22,7 @@
 
 ## 👨🏻‍💻 About me
 
-I am a four-year student in a computer science school. I am passionate about computers and I spend my free time programming and reading articles about the tech world.
+Computer Science Engineer passionate about business, information systems, and technology. I enjoy exploring the intersection between tech and business and keeping up with the latest trends and innovations in the industry.
 
     - 😄 Pronouns: He/Him
     - 👯 I'm looking for opportunities so if you have one, contact me
